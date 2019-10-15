@@ -1,6 +1,6 @@
 # Machine-Learning-Algorithms
 
-Assignment 1: Kernel K-NN and K-Fold cross validation algorithms
+                                  Assignment 1: Kernel K-NN and K-Fold cross validation algorithms
 
 Dataset used: iris, yeast, wdbc.
 
